@@ -11,6 +11,8 @@ The scraper extracts spesific player statistic such as:
 
 These details are stored in a CSV file, making it easy to analyze and work with the data.
 
+## Usage
+
 To install dependencies:
 
 ```bash
